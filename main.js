@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 const app = Vue.createApp({
     data() {
         return {
@@ -8,3 +9,15 @@ const app = Vue.createApp({
         }
     }
 })
+=======
+const app=Vue.createApp({
+    data()
+    {
+        return {
+            product: 'Socks',
+            description :'The colour of your socks are pink '
+        }
+    }
+
+})
+>>>>>>> Stashed changes
